@@ -1,0 +1,6 @@
+{
+  "name": "Resume Builder",
+  "description": "A modern and interactive frontend resume builder featuring clean UI templates, drag-and-drop sections, responsive step-by-step forms, real-time live preview, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
